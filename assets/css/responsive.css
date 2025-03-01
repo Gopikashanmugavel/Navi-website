@@ -1066,7 +1066,26 @@
 }
 
 
+/* Responsive for Tablets (Max Width 768px) */
+@media screen and (max-width: 768px) {
+  .blog-details-content .news-block-one .inner-box .tags-list {
+      justify-content: center; /* Center tags */
+  }
+}
 
+/* Responsive for Mobile (Max Width 480px) */
+@media screen and (max-width: 480px) {
+  .blog-details-content .news-block-one .inner-box .tags-list {
+      flex-direction: column; /* Stack items */
+      align-items: center; /* Center align */
+  }
+
+  .blog-details-content .news-block-one .inner-box .tags-list li a {
+      width: auto; /* Ensure it adjusts to content */
+      padding: 8px 20px; /* Increase padding for better touch */
+      font-size: 14px; /* Reduce font size */
+  }
+}
 
 
 
