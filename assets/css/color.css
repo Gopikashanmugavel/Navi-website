@@ -9,15 +9,15 @@
 }
 
 .header-top .info li a:hover{
-  color: #00488E;
+  color: #F7A800;
 }
 
 .header-top .top-right .login a:hover{
-  color: #00488E;
+  color: #F7A800;
 }
 
 .header-top .social-links li a:hover{
-  color: #00488E;
+  color: #F7A800;
 }
 
 .main-menu .navigation > li.current > a,
@@ -27,7 +27,7 @@
 
 .main-menu .navigation > li > ul > li > a:hover,
 .main-menu .navigation > li > .megamenu li > a:hover{
-  color: #00488E;
+  color: #F7A800;
 }
 
 .main-menu .navigation > li > ul > li > ul > li > a:hover{
@@ -182,11 +182,11 @@
 }
 
 .main-footer .contact-widget .info-list li a:hover{
-  color: #00488E;
+  color: #F7A800;
 }
 
 .footer-bottom a:hover{
-  color: #00488E;
+  color: #F7A800;
 }
 
 .header-style-two.main-header .menu-right-content .btn-box a{
@@ -437,7 +437,7 @@
 }
 
 .project-block-three .inner-box .lower-content h3 a:hover{
-	color: #00488E;
+	color: #F7A800;
 }
 
 .portfolio-sidebar .social-links li a:hover{
